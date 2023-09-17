@@ -1,0 +1,17 @@
+.header{
+    height: 80px;
+    background-color: #DCB7F2;
+    background-image: linear-gradient(#DCB7F2,#814C62 );
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+.header a{
+    text-decoration: none;
+    color: #83ffc6;
+    margin: 5px;
+    font-size: 18px;
+}
