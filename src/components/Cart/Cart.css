@@ -8,3 +8,17 @@
 .cart p{
     font-size: 17px;
 }
+.btn-clr-cart{
+    width: 90%;
+    height: 56px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    color: #e6c5ff;
+    padding: 5px;
+    background-color: #359dbd;
+    border: none;
+    border-radius: 5px;
+}
